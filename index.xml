@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canciones de Cary Y Norbe</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Canciones de Cary Y Norbe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 18 Oct 2019 01:54:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Michael Jackson Billie Jean Concierto</title>
+      <link>https://example.com/post/michael-jackson-billie-jean-concierto/</link>
+      <pubDate>Fri, 18 Oct 2019 01:54:05 -0400</pubDate>
+      
+      <guid>https://example.com/post/michael-jackson-billie-jean-concierto/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Michael Jackson Billie Jean</title>
+      <link>https://example.com/post/michael-jackson-billie-jean/</link>
+      <pubDate>Fri, 18 Oct 2019 01:49:18 -0400</pubDate>
+      
+      <guid>https://example.com/post/michael-jackson-billie-jean/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Eros Ramazzotti Otra Como Tú</title>
+      <link>https://example.com/post/otra-como-tu/</link>
+      <pubDate>Fri, 18 Oct 2019 01:45:10 -0400</pubDate>
+      
+      <guid>https://example.com/post/otra-como-tu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Eros Ramazzotti - Completamente Enamorados</title>
+      <link>https://example.com/post/completamente-enamorados/</link>
+      <pubDate>Fri, 18 Oct 2019 01:38:21 -0400</pubDate>
+      
+      <guid>https://example.com/post/completamente-enamorados/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>We Are The World</title>
+      <link>https://example.com/post/atest/</link>
+      <pubDate>Fri, 18 Oct 2019 01:11:30 -0400</pubDate>
+      
+      <guid>https://example.com/post/atest/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

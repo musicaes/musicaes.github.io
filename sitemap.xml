@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-10-18T01:54:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/michael-jackson-billie-jean-concierto/</loc>
+    <lastmod>2019-10-18T01:54:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2019-10-18T01:54:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/michael-jackson-billie-jean/</loc>
+    <lastmod>2019-10-18T01:49:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/otra-como-tu/</loc>
+    <lastmod>2019-10-18T01:45:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/completamente-enamorados/</loc>
+    <lastmod>2019-10-18T01:38:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/atest/</loc>
+    <lastmod>2019-10-18T01:11:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+</urlset>
