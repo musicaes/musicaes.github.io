@@ -6,10 +6,19 @@
     <description>Recent content on Canciones de Cary Y Norbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 18 Oct 2019 01:54:05 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 03:09:31 -0400</lastBuildDate>
     
 	<atom:link href="https://musicaes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bee Gees Staying Alive</title>
+      <link>https://musicaes.github.io/post/bee-gees-staying-alive/</link>
+      <pubDate>Fri, 18 Oct 2019 03:09:31 -0400</pubDate>
+      
+      <guid>https://musicaes.github.io/post/bee-gees-staying-alive/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>Michael Jackson Billie Jean Concierto</title>
@@ -54,6 +63,15 @@
       
       <guid>https://musicaes.github.io/post/atest/</guid>
       <description>   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://musicaes.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://musicaes.github.io/about/</guid>
+      <description>Cubanos, matanceros, familia y amigos.</description>
     </item>
     
   </channel>
